@@ -1,12 +1,8 @@
 # Cointopay Gateway for Paid Memberships Pro
 Contributors: strangerstudios
-
 Tags: membership, memberships, member, members
-
 Requires at least: 4
-
 Tested up to: 4.9.6
-
 Stable tag: 1.0
 
 Cointopay Gateway for Paid Memberships Pro
